@@ -1,0 +1,22 @@
+#divPage {
+		text-align:center;
+		margin-top:5%;
+		font-size:15px;
+		font-weight:bold;
+}	
+#divPage a, #divPage span {
+	color:white;
+	padding:5px 10px;
+	margin-right:1%;
+	font-family:Microsoft Yahei;
+}	
+#divPage span {
+	color:gray;
+}		
+#divPage a:hover {
+	color:black;
+}
+#divPage .selected a {
+	background-color: white;
+	font-weight: bold;
+}
